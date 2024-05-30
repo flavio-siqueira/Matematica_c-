@@ -1,2 +1,2 @@
 # Matematica_c#
-Testes matemáticos com c#.
+Exercícios de matemáticos com c#.
